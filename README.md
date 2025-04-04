@@ -17,6 +17,7 @@ For example, for the product_title 'Ferris Wheel Press EU Fountain Pen Ink', the
 - [Writing, Art]
 - [Writing Accessories]
 - [Writing, Office Supplies]
+  
 and after the execution, only [Writing, Art] was kept.
 
 I explored more options and found pyspark as a better solution.  
